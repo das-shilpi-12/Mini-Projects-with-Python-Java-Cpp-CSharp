@@ -1,0 +1,50 @@
+Python is a widely used general-purpose, high level programming language. 
+It was created by Guido van Rossum in 1991 and further developed by the Python Software Foundation. 
+It was designed with an emphasis on code readability, and its syntax allows programmers to express their concepts in fewer lines of code.
+Python is a programming language that lets you work quickly and integrate systems more efficiently.
+*******************************************************************************************************************************
+# Advantages #
+
+> Presence of third-party modules 
+> Extensive support libraries(NumPy for numerical calculations, Pandas for data analytics, etc.) 
+> Open source and large active community base 
+> Versatile, Easy to read, learn and write
+> User-friendly data structures 
+> High-level language 
+> Dynamically typed language(No need to mention data type based on the value assigned, it takes data type) 
+> Object-Oriented and Procedural  Programming language
+> Portable and Interactive
+> Ideal for prototypes – provide more functionality with less coding
+> Highly Efficient(Python’s clean object-oriented design provides enhanced process control, and the language is equipped with excellent text processing and integration capabilities, as well as its own unit testing framework, which makes it more efficient.)
+> Internet of Things(IoT) Opportunities
+> Interpreted Language
+> Portable across Operating systems 
+*******************************************************************************************************************************
+# Applications #
+
+> GUI-based desktop applications
+> Graphic design, image processing applications, Games, and Scientific/ computational Applications
+> Web frameworks and applications 
+> Enterprise and Business applications 
+> Operating Systems 
+> Education
+> Database Access
+> Language Development 
+> Prototyping 
+> Software Development
+*******************************************************************************************************************************
+# Organizations using Python #
+
+> Google(Components of Google spider and Search Engine) 
+> Yahoo(Maps) 
+> YouTube 
+> Mozilla 
+> Dropbox 
+> Microsoft 
+> Cisco 
+> Spotify 
+> Quora 
+> Facebook
+*******************************************************************************************************************************
+Here,I will create various mini projects with Python.
+Thank you.
