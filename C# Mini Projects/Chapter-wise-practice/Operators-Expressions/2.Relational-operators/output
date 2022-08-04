@@ -1,0 +1,7 @@
+a = 20.5
+b = 6.4
+a<b = False
+a>=b = True
+a==b = False
+a!=b = True
+a>a+b = False
