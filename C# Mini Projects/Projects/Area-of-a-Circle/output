@@ -1,0 +1,26 @@
+Test Case 1
+
+Input
+5
+Your Output
+78.5
+Expected Output
+78.5
+------------------------------------
+Test Case 2
+
+Input
+6.4
+Your Output
+128.6144
+Expected Output
+128.6144
+---------------------------
+Test Case 3
+
+Input
+10
+Your Output
+314
+Expected Output
+314
